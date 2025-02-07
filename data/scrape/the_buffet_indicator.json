@@ -1,0 +1,49 @@
+{
+    "Introduction": [
+        "The Buffett indicator (or the Buffett metric, or the Market capitalization-to-GDP ratio)[1] is a valuation multiple used to assess how expensive or cheap the aggregate stock market is at a given point in time.[1][2]  It was proposed as a metric by investor Warren Buffett in 2001, who called it \"probably the best single measure of where valuations stand at any given moment\", and its modern form compares the capitalization of the US Wilshire 5000 index to US GDP.[a][5][3]  It is widely followed by the financial media as a valuation measure for the US market in both its absolute,[6][3][5] and de-trended forms.[7][4]",
+        "The indicator set an all-time high during the so-called \"everything bubble\", crossing the 200% level in February 2021;[6][4] a level that Buffett warned if crossed, was \"playing with fire\".[8][3]"
+    ],
+    "History": [
+        "On 10 December 2001, Buffett proposed the metric in a Fortune essay co-authored with journalist Carol Loomis.[8]  In the essay, Buffett presented a chart going back 80 years that showed the value of all \"publicly traded securities\" in the US as a percentage of \"US GNP\".[8]  Buffett said of the metric: \"Still, it is probably the best single measure of where valuations stand at any given moment. And as you can see, nearly two years ago the ratio rose to an unprecedented level. That should have been a very strong warning signal\".[8]",
+        "Buffett explained that for the annual return of US securities to materially exceed the annual growth of US GNP for a protracted period of time: \"you need to have the line go straight off the top of the chart. That won't happen\".[8]  Buffett finished the essay by outlining the levels he believed the metric showed favorable or poor times to invest: \"For me, the message of that chart is this: If the percentage relationship falls to the 70% or 80% area, buying stocks is likely to work very well for you. If the ratio approaches 200%–as it did in 1999 and a part of 2000–you are playing with fire\".[8][3]",
+        "Buffett's metric became known as the \"Buffett Indicator\", and has continued to receive widespread attention in the financial media,[6][1][9][10] and in modern finance textbooks.[11][12][13]",
+        "In 2018, finance author Mark Hulbert writing in the Wall Street Journal, listed the Buffett indicator as one of his \"Eight Best Predictors of the Long-Term Market\".[2]",
+        "A study by two European academics published in May, 2022 found the Buffett Indicator \"explains a large fraction of ten-year return variation for the majority of countries outside the United States\".[14] The study examined 10-year periods in fourteen developed markets, in most cases with data starting in 1973. The Buffett Indicator forecasted an average of 83% of returns across all nations and periods, though the predictive value ranged from a low of 42% to as high as 93% depending on the specific nation. Accuracy was lower in nations with smaller stock markets."
+    ],
+    "Theory": [
+        "Buffett acknowledged that his metric was a simple one and thus had \"limitations\", however the underlying theoretical basis for the indicator, particularly in the US, is considered reasonable.[8][2]",
+        "For example, studies have shown a consistent and strong annual correlation between US GDP growth, and US corporate profit growth,[15] and which has increased materially since the Great Recession of 2007–2009.[16] GDP captures effects where a given industry's margins increase materially for a period, but the effect of reduced wages and costs, dampening margins in other industries.[15]",
+        "The same studies show a poor annual correlation between US GDP growth and US equity returns, underlining Buffett's belief that when equity prices get ahead of corporate profits (via the GNP/GDP proxy), poor returns will follow.[15]  The indicator has also been advocated for its ability to reduce the effects of \"aggressive accounting\" or \"adjusted profits\", that distort the value of corporate profits in the price–earnings ratio or EV/EBITDA ratio metrics; and that it is not affected by share buybacks (which don't affect aggregate corporate profits).[17]",
+        "The Buffett indicator has been calculated for most international stock markets, however, caveats apply as other markets can have less stable compositions of listed corporations (e.g. the Saudi Arabia metric was materially impacted by the 2018 listing of Aramco), or a significantly higher/lower composition of private vs public firms (e.g. Germany vs. Switzerland), and therefore comparisons across international markets using the indicator as a comparative measure of valuation are not appropriate.[18]",
+        "The Buffett indicator has also been calculated for industries (but also noting that it is not relevant for cross industry valuation comparison).[13]"
+    ],
+    "Trending": [
+        "There is evidence that the Buffett indicator has trended upwards over time, particularly post 1995, and the lows registered in 2009 would have registered as average readings from the 1950–1995 era.[7]  Reasons proposed include that GDP might not capture all the overseas profits of US multinationals (e.g. use of tax havens or tax structures by large US technology and life sciences multinationals), or that the profitability of US companies has structurally increased (e.g. due to increased concentration of technology companies), thus justifying a higher ratio; although that may also revert over time.[1][19]  Other commentators have highlighted that the omission by metric of corporate debt, could also be having an effect.[4]"
+    ],
+    "Formula": [
+        "Buffett's original chart used US GNP as the divisor, which captures the domestic and international activity of all US resident entities even if based abroad, however, many modern Buffett metrics use US GDP as the metric.[17]  US GDP has historically been within 1 percent of US GNP, and is more readily available (other international markets have greater variation between GNP and GDP).[20][7]",
+        "Buffett's original chart used the Federal Reserve Economic Data (FRED) database from the Federal Reserve Bank of St. Louis for \"corporate equities\",[b] as it went back for over 80 years; however, many modern Buffett metrics simply use the main S&P 500 index,[3] or the broader Wilshire 5000 index instead.[17][19]",
+        "A common modern formula for the US market, which is expressed as a percentage, is:[19][4]",
+        "(E.g. if US GDP is USD 20 trillion and the market capitalization of the Wilshire 5000 is USD 40 trillion, then the Buffett indicator for the US is 200%; i.e. US public companies are twice as big as annual US economic output.)",
+        "The choice of how GDP is calculated (e.g. deflator), can materially affect the absolute value of the ratio;[18] for example, the Buffett indicator calculated by the Federal Reserve Bank of St. Louis peaks at 118% in Q1 2000,[21] while the version calculated by Wilshire Associates peaks at 137% in Q1 2000,[22] while the versions following Buffett's original technique, peak at very close to 160% in Q1 2000.[7][4]"
+    ],
+    "Records": [
+        "Using Buffett's original calculation basis in his 2001 article, but with GDP, the metric has had the following lows and highs from 1950 to February 2021:[7]",
+        "A low of 33.0% in 1953, a low of 32.2% in 1982, and a low of c. 79% in 2002, and a low of 66.7% in 2009",
+        "A high of 87.1% in 1968, a high of 159.2% in 2000, a high of c. 118% in 2007, and a high of 189.6% in (Feb) 2021.",
+        "Using the more common modern Buffett indicator with the Wilshire 5000 and US GDP, the metric has had the following lows and highs from 1970 to February 2021:[7]",
+        "A low of 34.6% in 1982, a low of 72.9% in 2002, and a low of 56.8% in 2009",
+        "A high of 81.1% in 1972, a high of 136.9% in 2000, a high of 105.2% in 2007, and a high of 172.1% in (Feb) 2021.",
+        "De-trended data of Buffett's original calculation basis (see above) has had the following lows and highs from 1950 to February 2021 (expressed a % deviation from mean):[7]",
+        "A low of -28% in 1953, a low of -51% in 1982, and a low of -5% in 2002, and a low of -27% in 2009",
+        "A high of +58% in 1968, a high of +96% in 2000, a high of c. +30% in 2007, and a high of +80% in (Feb) 2021."
+    ],
+    "See also": [
+        "Economy monetization",
+        "EV/Ebitda"
+    ],
+    "Notes": [
+        "^ Note that slightly different Buffett indicators can be calculated when using the S&P 500 index, or using different definitions of GDP, and even using GNP (Buffett's original divisor).[3][4]",
+        "^ Or more technically,  item NCBEILQ027S, from Line 62 in the F.103 balance sheet of Table S.5.q of the \"Integrated Macroeconomic Accounts for the United States\" (Market Value of Equities Outstanding) file.[7]"
+    ]
+}
