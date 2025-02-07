@@ -1,3 +1,3 @@
-# Multimodal-FinLoRA
+# FinLoRA-Agent
 
-An extension of FinLoRA to multimodality, with text and image support.
+An extension of FinLoRA to a specific product
