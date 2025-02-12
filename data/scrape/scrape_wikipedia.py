@@ -48,7 +48,7 @@ if content_div:
 wiki_data = {k: v for k, v in wiki_data.items() if v}
 
 # Save the extracted content into a JSON file
-with open("../../data/scrape/the_buffet_indicator.json", "w", encoding="utf-8") as file:
+with open("../books/the_buffet_indicator.json", "w", encoding="utf-8") as file:
     json.dump(wiki_data, file, indent=4, ensure_ascii=False)
 
 print("Wikipedia data saved to the_buffet_indicator.json")
