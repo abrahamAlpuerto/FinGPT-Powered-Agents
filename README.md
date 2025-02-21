@@ -1,3 +1,3 @@
 # FinLoRA-Agent
 
-An extension of FinLoRA to a specific product
+Leverage FinLoRA to build an avatar of Warren Buffet.
