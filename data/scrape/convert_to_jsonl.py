@@ -21,3 +21,5 @@ def convert_to_jsonl(input_file, output_file):
             f.write(f'{json.dumps(entry, ensure_ascii=False)}\n')
 
 convert_to_jsonl('wikipedia_data.txt', '../train/wikipedia_data.jsonl')
+convert_to_jsonl('warren_buffett_letters.txt', '../train/warren_buffett_letters.jsonl')
+convert_to_jsonl('essays-of-warren-buffett.txt', '../train/essays_of_warren_buffett.jsonl')
