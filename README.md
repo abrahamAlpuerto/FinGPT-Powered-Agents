@@ -10,6 +10,58 @@ Starting with FinLLMs like BloombergGPT presenting the potential for LLMs in fin
 
 Using a method like LoRA we generate a model to try and match the knowledge of the legendary investor Warren Buffett to give finacial advice. 
 
+## System Architecture
+
+### Data Collection Pipeline
+```mermaid
+graph TD
+    A[Raw Data Sources] --> B[Data Collection]
+    B --> C[Data Processing]
+    B --> D[Data Cleaning]
+    
+    subgraph Raw Data Sources
+        E[Berkshire Letters] 
+        F[Investment Books]
+        G[Interviews]
+        H[Public Statements]
+    end
+    
+    subgraph Data Processing
+        C --> I[Text Extraction]
+        I --> J[Tokenization]
+        J --> K[Format Standardization]
+    end
+    
+    subgraph Data Cleaning
+        D --> L[Remove Duplicates]
+        L --> M[Filter Irrelevant Content]
+        M --> N[Quality Check]
+    end
+    
+    K --> O[Processed Dataset]
+    N --> O
+```
+
+### Fine-tuning Architecture
+```mermaid
+graph LR
+    A[Base LLM] --> B[LoRA Adaptation]
+    C[Processed Dataset] --> B
+    B --> D[Fine-tuned Model]
+    
+    subgraph LoRA Process
+        E[Low-Rank Matrices] --> F[Parameter Efficient Training]
+        F --> G[Merge with Base Model]
+    end
+    
+    subgraph Training Loop
+        H[Training Data] --> I[Forward Pass]
+        I --> J[Calculate Loss]
+        J --> K[Update LoRA Parameters]
+        K --> H
+    end
+```
+
 ## Features
 
 - Fine-tuned on Warren Buffett's investment philosophy and writings
