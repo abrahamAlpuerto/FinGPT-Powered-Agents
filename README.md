@@ -59,7 +59,7 @@ This project is licensed under the terms of the LICENSE file included in the rep
 
 - Warren Buffett's decades of investment wisdom and public teachings
 - The FinLoRA paper and implementation
-- Open-source financial NLP community
+- The Fin AI community 
 
 
 
