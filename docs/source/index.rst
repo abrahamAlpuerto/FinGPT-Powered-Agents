@@ -1,7 +1,7 @@
-FinLoRA: Fine-tuning LLMs with LoRA on Warren Buffett's Wisdom
+Buffett-Agent: Fine-tuning LLMs with LoRA on Warren Buffett's Wisdom
 ================================================================
 
-Welcome to the documentation for the FinLoRA research project. This project explores the application of Low-Rank Adaptation (LoRA) for fine-tuning Large Language Models using Warren Buffett's investment philosophy and business wisdom.
+Welcome to the documentation for the Buffett-Agent research project. This project explores the application of Low-Rank Adaptation (LoRA) for fine-tuning Large Language Models using Warren Buffett's investment philosophy and business wisdom.
 
 .. toctree::
    :maxdepth: 2

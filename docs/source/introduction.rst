@@ -7,7 +7,7 @@ Large Language Models (LLMs) have shown remarkable capabilities in understanding
 
 Why Warren Buffett?
 -----------------
-Warren Buffett, known as the "Oracle of Omaha," represents one of the most successful and systematic approaches to investment and business analysis. His clear communication style, consistent principles, and decades of written material make him an ideal subject for specialized language model adaptation.
+Warren Buffett, famously known as the "Oracle of Omaha," embodies one of the most successful and disciplined approaches to investing and business analysis. His transparent communication style, unwavering principles, and decades of written insights make him an ideal subject for specialized language model adaptation. As the driving force behind Berkshire Hathaway, Buffett has consistently outperformed the market—doubling the returns of the S&P 500 over the past 50 years. Given this track record, he serves as an exceptional foundation for developing a domain-specific financial advisor language model.
 
 Project Objectives
 ----------------

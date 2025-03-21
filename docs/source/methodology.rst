@@ -41,20 +41,12 @@ Training Process
    - Validation approach
 
 2. **Training Infrastructure**:
-   - Hardware specifications
-   - Software stack
-   - Resource optimization
+   - Google Colab (A100 GPU)
+   - Python, PyTorch, Hugging Face
 
 Evaluation Framework
 ------------------
 1. **Quantitative Metrics**:
-   - Perplexity
-   - ROUGE scores
-   - Investment analysis accuracy
-   - Style similarity metrics
+
 
 2. **Qualitative Assessment**:
-   - Expert review
-   - Investment principle alignment
-   - Writing style comparison
-   - Case study analysis 
