@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'FinLoRA-Agent'
-copyright = '2025, Unknown'
-author = 'Unknown'
+project = 'Buffett-Agent'
+copyright = '2025, Buffett-Agent'
+author = ''
 
 release = '0.1'
 version = '0.1.0'
