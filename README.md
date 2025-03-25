@@ -12,55 +12,14 @@ Using a method like LoRA we generate a model to try and match the knowledge of t
 
 ## System Architecture
 
+### Overview
+![Overview](docs/img/Diagram3.drawio.png)
+
 ### Data Collection Pipeline
-```mermaid
-graph TD
-    A[Raw Data Sources] --> B[Data Collection]
-    B --> C[Data Processing]
-    B --> D[Data Cleaning]
-    
-    subgraph Raw Data Sources
-        E[Berkshire Letters] 
-        F[Investment Books]
-        G[Interviews]
-        H[Public Statements]
-    end
-    
-    subgraph Data Processing
-        C --> I[Text Extraction]
-        I --> J[Tokenization]
-        J --> K[Format Standardization]
-    end
-    
-    subgraph Data Cleaning
-        D --> L[Remove Duplicates]
-        L --> M[Filter Irrelevant Content]
-        M --> N[Quality Check]
-    end
-    
-    K --> O[Processed Dataset]
-    N --> O
-```
+![Data Collection Pipeline](docs/img/Diagram1.drawio.png)
 
 ### Fine-tuning Architecture
-```mermaid
-graph LR
-    A[Base LLM] --> B[LoRA Adaptation]
-    C[Processed Dataset] --> B
-    B --> D[Fine-tuned Model]
-    
-    subgraph LoRA Process
-        E[Low-Rank Matrices] --> F[Parameter Efficient Training]
-        F --> G[Merge with Base Model]
-    end
-    
-    subgraph Training Loop
-        H[Training Data] --> I[Forward Pass]
-        I --> J[Calculate Loss]
-        J --> K[Update LoRA Parameters]
-        K --> H
-    end
-```
+![Fine-tuning Architecture](docs/img/Diagram2.drawio.png)
 
 ## Features
 
