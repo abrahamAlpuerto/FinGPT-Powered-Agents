@@ -33,7 +33,7 @@ Buffett-Agent as an Example
 
 A demo agent being a financial advisor, the Buffett-Agent with the following framework:
 
-.. image:: ../img/FinGPT-Powered_Agents.png
+.. image:: ./img/FinGPT-Powered_Agents.png
   :width: 400
 
 .. toctree::
