@@ -7,14 +7,11 @@ Welcome to the documentation for the **FinGPT-Powered Agents Framework**, a modu
    :maxdepth: 2
    :caption: Documentation Contents:
 
-   introduction
+   overview
    mcp_protocol
-   architecture
    agents
    examples/buffett_agent
    deployment
-   api_reference
-   future_work
 
 
 About FinGPT-Powered Agents
@@ -25,7 +22,7 @@ The **FinGPT-Powered Agents Framework** leverages Large Language Models (LLMs), 
 Key Features
 ------------
 
-- **Modular Component Protocol (MCP)**: Standardized interactions between LLMs, tools, and data.
+- **Model Context Protocol (MCP)**: Standardized interactions between LLMs, tools, and data.
 - **Flexible Architecture**: Easily integrate and swap modular components.
 - **Real-Time Financial Data**: Integration with remote services such as market APIs, brokerage accounts, and analytical tools.
 - **Personalized Financial Advisory**: Customizable financial agents tailored to individual investor profiles and preferences.
@@ -34,21 +31,18 @@ Key Features
 Buffett-Agent as an Example
 ---------------------------
 
-One notable implementation of the FinGPT-Powered Agents Framework is the **Buffett-Agent**, an LLM-based financial advisory agent fine-tuned on Warren Buffett's investing principles and methodologies. Detailed documentation for the Buffett-Agent implementation, including fine-tuning strategies, datasets, experimental results, and analysis, can be found in the dedicated section:
+As a demo a Bufett-Agent will be created based off the following framework:
+.. image:: ../img/FinGPT-Powered_Agents.drawio_2.png
+  :width: 400
 
 .. toctree::
    :maxdepth: 2
    :caption: Buffett-Agent Documentation:
 
-   examples/buffett_agent/introduction
-   examples/buffett_agent/methodology
+   examples/buffett_agent/overview
    examples/buffett_agent/dataset
    examples/buffett_agent/model
    examples/buffett_agent/experiments
-   examples/buffett_agent/results
-   examples/buffett_agent/analysis
-   examples/buffett_agent/conclusions
-
 
 Getting Started
 ---------------
