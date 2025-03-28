@@ -31,8 +31,8 @@ Key Features
 Buffett-Agent as an Example
 ---------------------------
 
-As a demo a Bufett-Agent will be created based off the following framework:
-.. image:: ../img/FinGPT-Powered_Agents.drawio_2.png
+A demo agent being a financial advisor, the Buffett-Agent with the following framework:
+.. image:: ../img/FinGPT-Powered_Agents.png
   :width: 400
 
 .. toctree::
