@@ -64,8 +64,8 @@ def batch_process_files(input_dir, output_dir, encoding='utf-8'):
         raise
 
 # Configuration - Use absolute paths
-input_directory = '/Users/dmv62/FinLoRA-Agent/data/books/'
-output_directory = '/Users/dmv62/FinLoRA-Agent/data/onelineperdoctxts/processed/'
+input_directory = '/Users/dmv62/FinLoRA-Agent/data/warren_buffet_letters'
+output_directory = '/Users/dmv62/FinLoRA-Agent/data/onelineperdoctxts/letters/'
 
 # Run the processor
 batch_process_files(
