@@ -1,7 +1,7 @@
 FinGPT-Powered Agents Framework: Modular Financial Agents via MCP
 =================================================================
 
-Welcome to the documentation for the **FinGPT-Powered Agents Framework**, a modular architecture designed to facilitate the creation of sophisticated financial agents through the use of the Modular Component Protocol (MCP). FinGPT provides a scalable, maintainable, and protocol-driven approach to building powerful financial advisory and decision-making systems.
+Welcome to the documentation for the **FinGPT-Powered Agents Framework**, a modular architecture designed to facilitate the creation of sophisticated financial agents through the use of the Model Context Protocol (MCP).
 
 .. toctree::
    :maxdepth: 2
@@ -49,13 +49,12 @@ A demo agent being a financial advisor, the Buffett-Agent with the following fra
 Getting Started
 ---------------
 
-To start building your own financial agents powered by FinGPT and MCP, please follow the detailed architecture and deployment guides provided in the documentation.
+
 
 
 Contributions
 -------------
 
-We welcome contributions from the community. Please refer to our contribution guidelines if you'd like to help expand or improve the framework.
 
 
 License
