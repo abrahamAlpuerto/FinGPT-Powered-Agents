@@ -15,7 +15,7 @@ Financial Large Language Models (FinGPT) that, leverage the Model Contex Protoco
 ## Project Structure
 
 ```
-FinLoRA-Agent/
+FinGPT-Powered-Agents/
 ├── data/
 │   ├──cleanedtxts/
 │   ├── books/
