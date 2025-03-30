@@ -1,6 +1,6 @@
 # FinGPT-Powered Agents
 
-Financial Large Language Models (FinGPT) that, leverage the Model Contex Protocol (MCP).
+Financial Large Language Models, FinGPT that leverage the Model Contex Protocol (MCP) to create financial agents.
 
 
 ## Agent Demo Framework
