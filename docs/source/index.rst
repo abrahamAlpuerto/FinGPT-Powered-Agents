@@ -16,7 +16,7 @@ Welcome to the documentation for the **FinGPT-Powered Agents Framework**, a modu
 
 About FinGPT-Powered Agents
 ---------------------------
-The **FinGPT-Powered Agents Framework** leverages Large Language Models (LLMs), modular components, and the MCP protocol to enable flexible, powerful, and transparent financial decision-making agents. This framework allows developers to integrate real-time market data, user-specific portfolios, remote analytics services, and advanced computational tools seamlessly into financial agents.
+The **FinGPT-Powered Agents Framework** leverages Large Language Models (LLMs), modular components of the MCP protocol, and the MCP protocol itself to enable flexible, powerful, and transparent financial agents. This framework allows developers to integrate real-time market data, user-specific portfolios, remote analytics services, and advanced computational tools seamlessly into financial agents.
 
 
 Key Features
@@ -24,14 +24,14 @@ Key Features
 
 - **Model Context Protocol (MCP)**: Standardized interactions between LLMs, tools, and data.
 - **Flexible Architecture**: Easily integrate and swap modular components.
-- **Real-Time Financial Data**: Integration with remote services such as market APIs, brokerage accounts, and analytical tools.
-- **Personalized Financial Advisory**: Customizable financial agents tailored to individual investor profiles and preferences.
+- **Real-Time Financial Data**: Integration with remote services such as market APIs, brokerage accounts, analytical tools, etc.
+- **Personalized Financial Agents**: Customizable financial agents tailored to individual profiles, preferences, and tasks.
 
 
 Buffett-Agent as an Example
 ---------------------------
 
-A demo agent being a financial advisor, the Buffett-Agent with the following framework:
+An agent tasked as a financial advisor, the Buffett-Agent will use the following framework:
 
 .. image:: ./img/FinGPT-Powered_Agents.png
   :width: 100%
@@ -48,13 +48,7 @@ A demo agent being a financial advisor, the Buffett-Agent with the following fra
 
 Getting Started
 ---------------
-
-
-
-
-Contributions
--------------
-
+Add Later
 
 
 License
