@@ -3,11 +3,14 @@ Methodology
 
 Research Design
 ---------------
+
 Our research follows a systematic approach to fine-tuning language models using LoRA, with a
 specific focus on capturing Warren Buffett's investment philosophy and analysis style.
 
+
 Data Collection
 ---------------
+
 1. **Source Materials**:
    - Annual letters to Berkshire Hathaway shareholders
    - Transcripts of interviews and speeches
@@ -20,8 +23,10 @@ Data Collection
    - Quality filtering
    - Format standardization
 
+
 LoRA Implementation
 -------------------
+
 1. **Base Model Selection**:
    - Criteria for choosing the foundation model
    - Model architecture considerations
@@ -33,8 +38,10 @@ LoRA Implementation
    - Target modules selection
    - Learning rate optimization
 
+
 Training Process
 ----------------
+
 1. **Hyperparameter Selection**:
    - Learning rate scheduling
    - Batch size optimization
@@ -45,9 +52,10 @@ Training Process
    - Google Colab (A100 GPU)
    - Python, PyTorch, Hugging Face
 
+
 Evaluation Framework
 --------------------
-1. **Quantitative Metrics**:
 
+1. **Quantitative Metrics**:
 
 2. **Qualitative Assessment**:

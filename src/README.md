@@ -73,5 +73,4 @@ This project is licensed under the terms of the LICENSE file included in the rep
 - The Fin AI community 
 
 
-
-This is not financial advice use at your own risk.
+This is not financial advice – use at your own risk.

@@ -6,4 +6,3 @@ Large Language Models (LLMs). It provides a structured way to pass context to LL
 including information about the user, the model, and the task at hand.
 
 Example Frameworks:
-

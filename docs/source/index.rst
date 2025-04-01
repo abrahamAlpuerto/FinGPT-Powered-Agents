@@ -18,6 +18,7 @@ through the use of the Model Context Protocol (MCP).
 
 About FinGPT-Powered Agents
 ---------------------------
+
 The **FinGPT-Powered Agents Framework** leverages Large Language Models (LLMs), modular
 components of the MCP protocol, and the MCP protocol itself to enable flexible, powerful,
 and transparent financial agents. This framework allows developers to integrate real-time
@@ -55,6 +56,7 @@ An agent tasked as a financial advisor, the Buffett-Agent will use the following
 
 Getting Started
 ---------------
+
 Add Later
 
 
