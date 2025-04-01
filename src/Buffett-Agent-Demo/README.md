@@ -13,13 +13,13 @@ Using a method like LoRA we generate a model to try and match the knowledge of t
 ## System Architecture
 
 ### Overview
-![Overview](docs/source/img/Overview.png)
+![Overview](../../docs/source/img/Overview.png)
 
 ### Data Collection Pipeline
-![Data Collection Pipeline](docs/source/img/Data_Collection_Pipeline.png)
+![Data Collection Pipeline](../../docs/source/img/Data_Collection_Pipeline.png)
 
 ### Fine-tuning Architecture
-![Fine-tuning Architecture](docs/source/img/Fine-tuning_Architecture.png)
+![Fine-tuning Architecture](../../docs/source/img/Fine-tuning_Architecture.png)
 
 ## Features
 
