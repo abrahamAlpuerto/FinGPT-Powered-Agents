@@ -28,3 +28,10 @@ The LLM and Client send requests to this server through HTTPS with SSE and conte
 The MCP server can take these requests and in this example has the ability to
 search the web, analysis of current data through other models, and access to tools and data based
 on the agents job.
+
+
+**External API / MCP Servers:**
+One of the best parts about MCP is its modularity. Since this standardized framework is quickly growing
+there are many mcp servers that have already been created for APIs. For example YahooFinance API has multiple
+public MCP servers that can be added to FinGPT-Agents to help provide necessary context to the LLMs. Since this
+is the case we will leave the API servers as a separate addons to our standard FinGPT MCP servers.
