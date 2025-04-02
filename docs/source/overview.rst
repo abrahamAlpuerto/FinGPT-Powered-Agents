@@ -8,7 +8,7 @@ Responses back to the LLM give the LLM access to necessary context to complete t
 
 **FinGPT-Agent Local MCP Server:**
 
-.. image:: img/Local_MCP_Server.png
+.. image:: img/local_server_FinGPT_Agents.png
   :width: 100%
   :align: center
 
