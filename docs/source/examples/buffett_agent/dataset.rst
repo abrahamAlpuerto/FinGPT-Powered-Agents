@@ -8,23 +8,40 @@ undergo a thorough data processing procedure, which involves text cleaning and n
 content categorization, quality filtering, and format standardization to ensure consistency
 and reliability.
 
-1. **Source Materials**:
 
-  - Annual letters to Berkshire Hathaway shareholders
+Source Materials
+----------------
+
+The raw data includes:
+
+  - Annual letters to Berkshire Hathaway shareholders (1977-2021)
   - Transcripts of interviews and speeches
   - Books and articles about Buffett's investment philosophy
   - Public statements and market commentary
 
-2. **Data Processing**:
+
+Data Processing
+---------------
+
+The raw data undergoes the following steps:
 
   - Text cleaning and normalization
   - Content categorization
   - Quality filtering
   - Format standardization
 
-The data is formatted in the form of a JSONL file where each entry contains a context tag,
-which represents the input question to the model, and a target tag, which represents the
-output answer returned by the model.
+
+Structured Format
+-----------------
+
+Each processed entry adheres to this JSONL scheme:
+
+.. code-block:: json
+
+  {
+    "context": "What is Warren Buffett's core investment philosophy?",  // Input query
+    "target": "Buffett's investment philosophy is rooted in ..."        // Model response
+  }
 
 .. image:: ../../img/Data_Collection_Pipeline.png
   :width: 100%

@@ -4,7 +4,7 @@
 
 project = 'FinGPT-Powered Agents'
 copyright = '2025, FinGPT-Powered Agents'
-author = 'Abraham Alpuerto, David Chen and, David Vasquez'
+author = 'Abraham Alpuerto, David Chen, and David Vasquez'
 
 release = '0.1'
 version = '0.1.0'

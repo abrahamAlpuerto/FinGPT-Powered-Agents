@@ -1,10 +1,10 @@
 Model
 =====
 
-The model consists of a supervised learning component and an unsupervised learning component. The
-supervised learning component processes the dataset by tokenizing it and feeding it into a base
-model, while the unsupervised component leverages diverse data sources to further enhance the
-model's capabilities. These weights are combined with the pre-trained weights to form the model.
+The model combines a supervised learning component with an unsupervised learning component. The
+supervised learning component processes the dataset and feeds this to a base model, while the
+unsupervised component leverages diverse data sources to further enhance the model's capabilities.
+These learned weights are then combined with the pre-trained base model.
 
 .. image:: ../../img/Overview.png
   :width: 100%
